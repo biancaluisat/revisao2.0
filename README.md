@@ -32,12 +32,12 @@ while (energiapikachu > 0 && energiacharmander > 0){
 // Colocamos rodada++ para repetir o processo ate os valores serem <= 0, como especificado no início.
 -    rodada++;
 }
-// Agora, utilizamos o if else para mostrar oque, após a batalha finalizada, irá aparecer.
-console.log('...')
+- // Agora, utilizamos o if else para mostrar oque, após a batalha finalizada, irá aparecer.
+- console.log('...')
 - if(energiacharmander <= 0 && energiapikachu <=0){
-    console.log('😑Meu deus! Um empate.');
-}else if(energiacharmander > energiapikachu){
-    console.log('🏆Charmander campeão! 🔥');
-}else{
-    console.log('🏆Pikachu campeão!⚡')
+-    console.log('😑Meu deus! Um empate.');
+- }else if(energiacharmander > energiapikachu){
+-    console.log('🏆Charmander campeão! 🔥');
+- }else{
+-    console.log('🏆Pikachu campeão!⚡')
 }
