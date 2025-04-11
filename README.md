@@ -52,3 +52,6 @@ if (energiacharmander <= 0 && energiapikachu <= 0) {
 } else {
     console.log('🏆Pikachu campeão!⚡');
 }
+
+// ESTE README.MD FOI ORGANIZADO PELO CHATGPT, PORÉM A ESCRITA É DE MINHA AUTORIA !! Apenas pedi pra ele transformar em readme.md pois estava ficando !! HORROROSO !!
+// E não sabia usar readme.md.
